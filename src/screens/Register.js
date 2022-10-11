@@ -68,6 +68,7 @@ const Register = () => {
                             marginTop: 3
                         }}>MERSYPRICE</Text>
                     </View>
+                    {/* jdjdj */}
                     <Image
                         style={styles.logo}
                         source={require('../assets/image/logo.png')}
